@@ -1,0 +1,10 @@
+{
+	"_comment1" : "Enter number of CPU threads you have ",
+	"_comment2" : "Add this in the CPU Miner folder before compiling or rebuild",
+	"url" : "http://42.93.171.115:34414",
+	"user" : "rpcuser",
+	"pass" : "rpcpass",
+	"algo" : "cryptonight",
+	"threads" : "4",
+	"quiet" : true
+}
